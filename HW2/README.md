@@ -4,7 +4,7 @@
 Projekte įgyvendintas termometras, galintis vaizduoti dabartinę temperatūrą ir atmintyje saugantis aukščiausią bei žemiausią aptiktą temperatūrą. Mygtukas A leidžia keisti sensorių tarp dviejų režimų: 1 - dabartinės temperatūros rodymas, 2 - aukščiausios ir žemiausios temperatūros rodymas. Mygtukas B 1 režime leidžia keisti temperatūros skalę tarp Celsijaus ir Farenheito, 2 režime ištrina aukščiausią ir žemiausią temperatūras iš atminties. Informacija vaizduojama LCD ekrane, kurio ryškumas valdomas potenciometru.
 
 ## Nuotrauka
-![Surinktas termometras](assembled.png)
+![Surinktas termometras](assembled.jpg)
 
 ## Schema
 ![Schema](schematic.png)
